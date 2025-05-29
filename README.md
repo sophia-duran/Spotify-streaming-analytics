@@ -8,5 +8,3 @@ This is a personal music analytics project using my extended Spotify listening h
 - Redemption arcs (“skipped at first, loved later”)
 
 > Built in Google Colab. Visualized with Plotly. Data powered by Spotify.
-
-(./Spotify_Analytics_2019_2025.ipynb)
