@@ -9,4 +9,4 @@ This is a personal music analytics project using my extended Spotify listening h
 
 > Built in Google Colab. Visualized with Plotly. Data powered by Spotify.
 
-📊 [View the notebook](./Spotify_Analytics_2019_2025.ipynb)
+(./Spotify_Analytics_2019_2025.ipynb)
