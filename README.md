@@ -38,15 +38,39 @@ Tracks songs that were skipped at first but later became favorites, as well as p
 
 🛠️ Tech Stack
 
-Google Colab for data science and visualization
+Languages & Environments
 
-Python (pandas, datetime, numpy) for processing and time series analysis
+Python – core programming language
 
-Plotly for interactive charts
+Google Colab – for interactive coding, analysis, and visualizations
 
-Spotify Export Data for raw listening history (via Spotify account settings)
+Data Handling & Processing
 
-Optionally: Stats.fm, Last.fm, or Obscurify for validation and enrichment
+pandas – data cleaning, transformation, and manipulation
+
+datetime – parsing and formatting timestamps (e.g., for listening streaks or time-of-day patterns)
+
+json – importing raw Spotify data exports (especially long-term extended streaming history)
+
+Visualization
+
+Plotly Express – for interactive graphs and dashboards (e.g., genre shifts, artist rankings)
+
+matplotlib – additional plotting if needed (e.g., basic bar or line plots)
+
+APIs & Enrichment
+
+Stats.fm – helped with contextual listening behavior
+
+Spotify API (optional) – sometimes used to cross-reference metadata
+
+TheAudioDB / Last.fm APIs (optional) – for artist/genre enrichment if used
+
+Project Management & Publishing
+
+GitHub – to store, share, and version the project
+
+Framer or personal site – to embed or link the dashboard/summary visually
 
 
 📬 Credits & Contact
